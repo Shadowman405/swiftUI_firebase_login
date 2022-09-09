@@ -20,6 +20,7 @@
 		BFE6797128CBC7BE001B8FFC /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE6797028CBC7BE001B8FFC /* ListView.swift */; };
 		BFE6797328CBC801001B8FFC /* Dog.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE6797228CBC801001B8FFC /* Dog.swift */; };
 		BFE6797528CBC8FC001B8FFC /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE6797428CBC8FC001B8FFC /* DataManager.swift */; };
+		BFE6797728CBCBFF001B8FFC /* NewDogView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE6797628CBCBFF001B8FFC /* NewDogView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		BFE6797028CBC7BE001B8FFC /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
 		BFE6797228CBC801001B8FFC /* Dog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dog.swift; sourceTree = "<group>"; };
 		BFE6797428CBC8FC001B8FFC /* DataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
+		BFE6797628CBCBFF001B8FFC /* NewDogView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewDogView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 				BFE6794128CBB562001B8FFC /* ContentView.swift */,
 				BFE6797028CBC7BE001B8FFC /* ListView.swift */,
 				BFE6797228CBC801001B8FFC /* Dog.swift */,
+				BFE6797628CBCBFF001B8FFC /* NewDogView.swift */,
 				BFE6797428CBC8FC001B8FFC /* DataManager.swift */,
 				BFE6794328CBB563001B8FFC /* Assets.xcassets */,
 				BFE6796E28CBC306001B8FFC /* GoogleService-Info.plist */,
@@ -281,6 +284,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BFE6797728CBCBFF001B8FFC /* NewDogView.swift in Sources */,
 				BFE6794228CBB562001B8FFC /* ContentView.swift in Sources */,
 				BFE6797528CBC8FC001B8FFC /* DataManager.swift in Sources */,
 				BFE6794028CBB561001B8FFC /* swiftUI_firebase_loginApp.swift in Sources */,
